@@ -1,2 +1,4 @@
-# math
-My math notebook by latex
+# TexNote
+
+My notebook power by `latex`.
+
